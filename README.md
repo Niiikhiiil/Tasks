@@ -14,6 +14,6 @@
 
     the function to validate this fields should use the hook `useMemo`   (you can see code of this task in src/components/Task3.jsx)
 
-4. create a lazy load component with context api  (you can see code of this task in src/App.js where is Lazy Load component is impoerted and context API is used )
+4. create a lazy load component with context api  (you can see code of this task in src/App.js where is Lazy Load component is imported and context API is used )
 5. create 3 component named `Home`,`About Us`, `FAQ` and add the redirection links for this components in `App` components using react-router-dom
 (you can see code of this task in src/App.js where react-router-dom is used and i made Navbar for it)
