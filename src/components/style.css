@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background-color: blue;
+}
+
+.navbar > li {
+    list-style: none;
+    padding: 20px;
+}
+
+.navbar > li > * {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
